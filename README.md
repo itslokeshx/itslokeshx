@@ -23,18 +23,7 @@
   <img src="https://img.shields.io/badge/Cursor%20AI-5A45FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
 </p>
-
 ---
-
-## 📊 GitHub Streaks  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
----
-
-
 ## 📌 Most Used Languages  
 
 <p align="center">
