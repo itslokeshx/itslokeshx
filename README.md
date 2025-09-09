@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Lokesh  
 
-![Profile Views](https://komarev.com/ghpvc/?username=itslokeshx&label=Profile%20Views&color=0e75b6&style=flat)
-
 🌱 Currently learning **MERN Stack**  
 📩 Mail to reach out: **itslokeshx@gmail.com**  
 🌌 Embarking on a pathless path in the world of tech  
@@ -36,6 +34,7 @@
 
 ---
 
+
 ## 📌 Most Used Languages  
 
 <p align="center">
@@ -43,6 +42,7 @@
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=itslokeshx&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 🌐 Connect With Me  
 
