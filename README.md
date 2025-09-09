@@ -56,8 +56,11 @@
   <a href="https://x.com/itslokeshx">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <a href="mailto:itslokeshx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-⭐️ *“one commit at a time.”*  
+⭐️ *“One commit at a time.”*  
