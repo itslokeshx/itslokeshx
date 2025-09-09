@@ -53,6 +53,3 @@
 </p>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=itslokeshx&label=Profile%20Views&color=0e75b6&style=flat)
-
-⭐️ *“One commit at a time.”*  
