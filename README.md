@@ -103,7 +103,7 @@
 
 ### Full-Stack Python & MySQL (Vibe-Code ⭐)
 
-* [**mindfulAI**](https://github.com/itslokeshx/mindfulAI) – HTML, CSS, JS frontend + Python backend + Gemini API
+* [**mindfulAI**](https://github.com/itslokeshx/mindfulAI) 
 
 ### Full-Stack MERN (Vibe-Code ⭐)
 
