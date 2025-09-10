@@ -42,8 +42,8 @@
 ### JavaScript
 
 * [**love-calce-2.0**](https://github.com/itslokeshx/love-calce-2.0)
-* [**sem3**](https://github.com/itslokeshx/sem3) – SEM 3 Study Hub 
-* [**sem4**](https://github.com/itslokeshx/sem4) – SEM 4 Study Hub 
+* [**sem3**](https://github.com/itslokeshx/sem3) 
+* [**sem4**](https://github.com/itslokeshx/sem4) 
 * [**To-Do**](https://github.com/itslokeshx/To-Do) 
 * [**math-calce**](https://github.com/itslokeshx/math-calce) 
 * [**Age-Calculator**](https://github.com/itslokeshx/Age-Calculator) 
