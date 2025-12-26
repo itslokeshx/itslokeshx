@@ -32,7 +32,7 @@
 ## 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itslokeshx&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 ## 📌 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslokeshx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslokeshx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -94,20 +94,20 @@
 
 * [**SaveMyTab**](https://github.com/itslokeshx/SaveMyTab) – Manage & save tabs
 
-### Full-Stack PHP & MySQL (Vibe-Code ⭐)
+### Full-Stack PHP & MySQL
 
 * [**hostelmanagement**](https://github.com/itslokeshx/hostelmanagement)
 * [**finance\_tracker**](https://github.com/itslokeshx/finance_tracker)
 
-### Full-Stack Python & MySQL (Vibe-Code ⭐)
+### Full-Stack Python & MySQL
 
 * [**mindfulAI**](https://github.com/itslokeshx/mindfulAI) 
 
-### Full-Stack MERN (Vibe-Code ⭐)
+### Full-Stack MERN
 
 * [**MemeHub**](https://github.com/itslokeshx/MemeHub)
 
-### Desktop Apps (Vibe-Code ⭐)
+### Desktop Apps
 
 * [**YaaziCut**](https://github.com/itslokeshx/YaaziCut)
 
@@ -118,12 +118,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/itslokeshx/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/itslokeshx">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://x.com/itslokeshx">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="mailto:itslokeshx@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
