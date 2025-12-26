@@ -2,29 +2,12 @@
 
 🌌 Embarking on a pathless path in the world of tech
 
+💻 View my projects here 👇
 
 ---
 
-## 📈 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📌 Most Used Languages
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itslokeshx&theme=tokyonight" />
-
-
-
-</div>
-
-
----
 ##  🚀  Projects
+
 <!-- START OF PROFILE STACK -->
 | 💻 **Technology** | 🚀 **Projects** |
 | --- | --- |
@@ -40,8 +23,23 @@
 | <img src="https://skillicons.dev/icons?i=electron,typescript" /> | [YaaziCut](https://github.com/itslokeshx/YaaziCut) |
 <!-- END OF PROFILE STACK -->
 
+---
+## 📈 GitHub Stats & Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
+
+## 📌 Most Used Languages
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itslokeshx&theme=tokyonight" />
+</div>
+
+---
+
 
 ## 🌐 Connect With Me
 
