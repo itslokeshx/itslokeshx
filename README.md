@@ -2,7 +2,6 @@
 
 🌌 Embarking on a pathless path in the world of tech
 
-💻 View my projects here 👉 [Projects](#projects)
 
 ---
 
