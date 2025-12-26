@@ -1,9 +1,5 @@
 # 👋 Hey, I'm Lokesh
 
-🌱 Currently learning **MERN Stack**
-
-📩 Mail to reach out: **[itslokeshx@gmail.com](mailto:itslokeshx@gmail.com)**
-
 🌌 Embarking on a pathless path in the world of tech
 
 💻 View my projects here 👉 [Projects](#projects)
