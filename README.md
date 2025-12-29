@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Lokesh
 
+🌐 Web Developer · Building real-world web products  
+
 🌌 Embarking on a pathless path in the world of tech  
 
 💻 View my projects here 👇  
