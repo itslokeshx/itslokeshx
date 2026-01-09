@@ -21,7 +21,7 @@
 | <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /> | [SaveMyTab](https://github.com/itslokeshx/SaveMyTab) |
 | <img src="https://skillicons.dev/icons?i=php,mysql" /> | [hostelmanagement](https://github.com/itslokeshx/hostelmanagement) · [finance_tracker](https://github.com/itslokeshx/finance_tracker) |
 | <img src="https://skillicons.dev/icons?i=python" /> | [mindfulAI](https://github.com/itslokeshx/mindfulAI) |
-| <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" /> | [Second-Brain](https://github.com/itslokeshx/Second-Brain) . [MemeHub](https://github.com/itslokeshx/MemeHub) |
+| <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" /> | [Second-Brain](https://github.com/itslokeshx/Second-Brain) . [MemeHub](https://github.com/itslokeshx/MemeHub) . [Automated WhatsApp messager](https://github.com/itslokeshx/Automated-whatsapp-message) |
 | <img src="https://skillicons.dev/icons?i=electron,typescript" /> | [YaaziCut](https://github.com/itslokeshx/YaaziCut) |
 <!-- END OF PROFILE STACK -->
 
