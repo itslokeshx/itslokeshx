@@ -22,7 +22,7 @@
 | :--- | :--- | :--- |
 | **[Second Brain](https://github.com/itslokeshx/Second-Brain)** | `MERN Stack` | A complete knowledge management system to store, organize, and retrieve thoughts efficiently. |
 | **[MemeHub](https://github.com/itslokeshx/MemeHub)** | `MERN Stack` | A social platform for sharing and discovering memes with a community-driven feed. |
-| **[Automated WhatsApp Messager](https://github.com/itslokeshx/Automated-whatsapp-message)** | `Node.js` `Express` | **Viral Project!** A backend system to schedule & automate WhatsApp messages for business loyalty programs. |
+| **[Automated WhatsApp Messager](https://github.com/itslokeshx/Automated-whatsapp-message)** | `Node.js` `Express` | A backend system to schedule & automate WhatsApp messages for business loyalty programs. |
 | **[SaveMyTab](https://github.com/itslokeshx/SaveMyTab)** | `Chrome Ext` `JS` | A browser extension to save and organize active tabs to boost productivity. |
 | **[CV Application](https://github.com/itslokeshx/CV-application)** | `React` `Vite` | A dynamic resume builder application allowing real-time editing and preview. |
 
@@ -110,7 +110,7 @@
 </details>
 
 <details>
-<summary><b>🎨 HTML, CSS</b></summary>
+<summary><b> HTML, CSS</b></summary>
 <br/>
 
 | Project | Description |
