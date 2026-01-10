@@ -16,7 +16,7 @@
 
 ---
 
-## 🏆 Featured Projects (Best Work)
+## 🏆 Featured Projects
 
 | 🚀 Project | 🛠️ Stack | 📝 Description |
 | :--- | :--- | :--- |
