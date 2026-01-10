@@ -2,10 +2,10 @@
 
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35" /> Hey, I'm Lokesh
 
-### 🚀 Full Stack Developer · MERN Stack · Open Source Enthusiast
+### 🚀 Full Stack Developer · MERN Stack 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39F75F&center=true&vCenter=true&width=435&lines=Building+real-world+Web+Products;Automating+boring+tasks+with+Code;Embarking+on+a+pathless+path;MERN+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39F75F&center=true&vCenter=true&width=435&lines=Building+real+world+Web+Products;Solving+Real-time+Problems;MERN+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <br/>
@@ -31,7 +31,7 @@
 ## 📂 More Projects (By Language)
 
 <details>
-<summary><b>🍃 MERN Stack</b></summary>
+<summary><b>MERN Stack</b></summary>
 <br/>
 
 | Project | Description |
@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary><b>⚛️ React.js</b></summary>
+<summary><b> React.js</b></summary>
 <br/>
 
 | Project | Description |
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary><b>⚡ TypeScript & Electron</b></summary>
+<summary><b> TypeScript & Electron</b></summary>
 <br/>
 
 | Project | Description |
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary><b>🟢 Node.js & APIs</b></summary>
+<summary><b> Node.js & APIs</b></summary>
 <br/>
 
 | Project | Description |
@@ -77,7 +77,7 @@
 </details>
 
 <details>
-<summary><b>💛 JavaScript</b></summary>
+<summary><b> JavaScript</b></summary>
 <br/>
 
 | Category | Projects |
@@ -89,7 +89,7 @@
 </details>
 
 <details>
-<summary><b>🐍 Python</b></summary>
+<summary><b>Python</b></summary>
 <br/>
 
 | Project | Description |
@@ -99,7 +99,7 @@
 </details>
 
 <details>
-<summary><b>🐘 PHP & MySQL</b></summary>
+<summary><b>PHP & MySQL</b></summary>
 <br/>
 
 | Project | Description |
@@ -126,19 +126,15 @@
 
 ## 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itslokeshx&theme=tokyonight" alt="Top Languages" />
+</div>
+<br/>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true" />
 </p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itslokeshx&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itslokeshx&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+<br/>
 
 ---
 
