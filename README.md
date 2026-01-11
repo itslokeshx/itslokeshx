@@ -126,13 +126,10 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itslokeshx&theme=tokyonight" alt="Top Languages" />
-</div>
-<br/>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
