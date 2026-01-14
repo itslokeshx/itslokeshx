@@ -105,7 +105,6 @@
 | Project | Description |
 | :--- | :--- |
 | **[Hostel Management](https://github.com/itslokeshx/hostelmanagement)** | Full management system for hostel allocation. |
-| **[Finance Tracker](https://github.com/itslokeshx/finance_tracker)** | Personal finance tracking application using SQL. |
 
 </details>
 
