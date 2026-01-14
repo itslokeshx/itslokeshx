@@ -2,12 +2,12 @@
 
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> Hey, I'm Lokesh
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=39F75F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Products;Solving+Real-time+Problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Products;Solving+Real-time+Problems" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://portfolio-liard-seven-64.vercel.app/">
-  <img src="https://img.shields.io/badge/✨_Explore_My_Portfolio-Visit_Website-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" height="30" />
 </a>
 
 <br/>
