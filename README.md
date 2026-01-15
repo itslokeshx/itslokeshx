@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://portfolio-liard-seven-64.vercel.app/">
+<a href="https://itslokeshx.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" height="30" />
 </a>
 
