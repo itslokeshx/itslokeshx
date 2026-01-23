@@ -4,13 +4,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Products;Solving+Real-time+Problems" alt="Typing SVG" />
 
-<br/>
+<!-- <br/>
 
 <a href="https://itslokeshx.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge" height="30" />
 </a>
 
-<br/>
+<br/> -->
 <br/>
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,typescript,electron,python,php,mysql,html,css,javascript,git,github,postman&perline=8" />
