@@ -38,7 +38,10 @@
   <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true" />
 </p>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=itslokeshx/portfolio,itslokeshx/SaveMyTab,itslokeshx/CorteXia,itslokeshx/answerfinder,itslokeshx/ZenType,itslokeshx/MemeHub,itslokeshx/Business-card,itslokeshx/Automated-whatsapp-message,itslokeshx/QR-Code-Generator,itslokeshx/Github_user_details,itslokeshx/Newsletter-Subscription,itslokeshx/Age-Calculator&type=Date)](https://star-history.com/#itslokeshx/portfolio,itslokeshx/SaveMyTab,itslokeshx/CorteXia,itslokeshx/answerfinder,itslokeshx/ZenType,itslokeshx/MemeHub,itslokeshx/Business-card,itslokeshx/Automated-whatsapp-message,itslokeshx/QR-Code-Generator,itslokeshx/Github_user_details,itslokeshx/Newsletter-Subscription,itslokeshx/Age-Calculator&Date)
+## 📈 Stars Graph
+[![Star History Chart](https://api.star-history.com/svg?repos=itslokeshx/portfolio,itslokeshx/SaveMyTab,itslokeshx/CorteXia,itslokeshx/ZenType&type=Date)](https://star-history.com/#itslokeshx/portfolio,itslokeshx/SaveMyTab,itslokeshx/CorteXia,itslokeshx/ZenType&Date)
+
+
 
 ---
 
