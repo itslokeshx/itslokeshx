@@ -23,7 +23,7 @@
 
 | 🚀 Project | 🛠️ Stack | 📝 Description |
 | :--- | :--- | :--- |
-| **[Second Brain](https://github.com/itslokeshx/Second-Brain)** | `MERN Stack` | A complete knowledge management system to store, organize, and retrieve thoughts efficiently. |
+| **[CorteXia](https://github.com/itslokeshx/cortexia)** | `MERN Stack` | An AI-powered productivity workspace unifying tasks, goals, habits, finance, and journaling into one seamless ecosystem. |
 | **[MemeHub](https://github.com/itslokeshx/MemeHub)** | `MERN Stack` | A social platform for sharing and discovering memes with a community-driven feed. |
 | **[Automated WhatsApp Messager](https://github.com/itslokeshx/Automated-whatsapp-message)** | `Node.js` `Express` | A backend system to schedule & automate WhatsApp messages for business loyalty programs. |
 | **[SaveMyTab](https://github.com/itslokeshx/SaveMyTab)** | `Chrome Ext` `JS` | A browser extension to save and organize active tabs to boost productivity. |
