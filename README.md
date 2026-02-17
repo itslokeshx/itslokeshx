@@ -26,11 +26,9 @@
 
 ### ⚡ About Me
 
-I'm a **3rd-year Engineering Student** based in Chennai with a passion for building scalable web products. I don't just write code; I design experiences. My development philosophy revolves around **"Vibe Coding"**—leveraging AI to accelerate creativity and build products that feel alive.
+Full-stack developer specializing in the MERN stack and AI-integrated applications.  
+Focused on building real-world systems with clean architecture, scalable backend logic, and intuitive UI.
 
-* 🏋️ **Offline:** You can find me at the gym (Bodybuilding enthusiast).
-* 🎨 **Design:** Creating User Personas, Empathy Maps, and pixel-perfect UI in **Figma**.
-* 💻 **Current Focus:** Mastering the MERN Stack & DSA.
 
 ---
 
@@ -58,15 +56,16 @@ I'm a **3rd-year Engineering Student** based in Chennai with a passion for build
 
 <div align="center">
 
-| **Streak Stats** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" height="160" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslokeshx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" /> |
 
-<br/>
+## 📈 GitHub Stats
 
-<a href="https://star-history.com/#itslokeshx/portfolio,itslokeshx/Second-Brain,itslokeshx/ZenType,itslokeshx/MemeHub&Date">
- <img src="https://api.star-history.com/svg?repos=itslokeshx/portfolio,itslokeshx/Second-Brain,itslokeshx/ZenType,itslokeshx/MemeHub&type=Date&theme=dark" alt="Star History Chart" width="100%" />
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Stars Graph
+[![Star History Chart](https://api.star-history.com/svg?repos=itslokeshx/portfolio,itslokeshx/SaveMyTab,itslokeshx/CorteXia,itslokeshx/ZenType&type=Date)](https://star-history.com/#itslokeshx/portfolio,itslokeshx/SaveMyTab,itslokeshx/CorteXia,itslokeshx/ZenType&Date)
+
 
 </div>
 
