@@ -72,5 +72,5 @@ Focused on building real-world systems with clean architecture, scalable backend
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="batmanfooter.jpg&height=100&section=footer"/>
 </div>
