@@ -24,7 +24,7 @@
 
 ---
 
-### ⚡ About Me
+###  About Me
 
 Full-stack developer specializing in the MERN stack and AI-integrated applications.  
 Focused on building real-world systems with clean architecture, scalable backend logic, and intuitive UI.
