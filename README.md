@@ -113,13 +113,9 @@ _Focused on building real-world systems with clean architecture, scalable backen
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🏙️ 3D Contribution Calendar
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itslokeshx/itslokeshx/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itslokeshx/itslokeshx/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itslokeshx/itslokeshx/output/github-contribution-grid-snake.svg" width="95%" />
-</picture>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
 
 </div>
 
