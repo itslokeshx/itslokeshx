@@ -81,17 +81,7 @@ _Focused on building real-world systems with clean architecture, scalable backen
 
 <div align="center">
 
-### � GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=itslokeshx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-
-### �🏆 Featured Projects
+### 🏆 Featured Projects
 
 | 🚀 Project                                                                       | 🛠️ Stack       | 📝 Description                                                                                                         |
 | :------------------------------------------------------------------------------- | :------------- | :--------------------------------------------------------------------------------------------------------------------- |
@@ -139,7 +129,7 @@ _Focused on building real-world systems with clean architecture, scalable backen
 
 <div align="center">
 
-### � Pacman Eating My Contributions
+### 🟡 Pacman Eating My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itslokeshx/itslokeshx/output/github-contribution-grid-pacman-dark.svg" />
@@ -153,7 +143,7 @@ _Focused on building real-world systems with clean architecture, scalable backen
 
 <div align="center">
 
-### �💬 Dev Quote of the Day
+### 💬 Dev Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
