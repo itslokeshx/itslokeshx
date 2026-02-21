@@ -100,18 +100,8 @@ _Focused on building real-world systems with clean architecture, scalable backen
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itslokeshx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslokeshx&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true" />
 </p>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itslokeshx&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
