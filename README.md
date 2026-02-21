@@ -18,6 +18,9 @@
   <a href="https://x.com/itslokeshx">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="30" />
   </a>
+  <a href="https://dev.to/itslokeshx">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="30" />
+  </a>
 </p>
 
 </div>
@@ -28,8 +31,8 @@
 
 ### 👨‍💻 About Me
 
-*Full-stack developer specializing in the **MERN stack** and **AI-integrated applications**.*
-*Focused on building real-world systems with clean architecture, scalable backend logic, and intuitive UI.*
+_Full-stack developer specializing in the **MERN stack** and **AI-integrated applications**._
+_Focused on building real-world systems with clean architecture, scalable backend logic, and intuitive UI._
 
 </div>
 
@@ -39,9 +42,28 @@
 
 ### 🛠️ Tech Stack & Tools
 
-| **Frontend & Design** | **Backend & Database** | **Tools & Platforms** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,figma,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,php" /> | <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,electron,vite" /> |
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <h4>🎨 Frontend & Design</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,tailwind,figma&perline=7" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <h4>⚙️ Backend & Database</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,php&perline=6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100%">
+      <h4>🔧 DevTools & Platforms</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,electron,vite&perline=6" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -51,13 +73,13 @@
 
 ### 🏆 Featured Projects
 
-| 🚀 Project | 🛠️ Stack | 📝 Description |
-| :--- | :--- | :--- |
-| **[CorteXia](https://github.com/itslokeshx/cortexia)** | `MERN Stack` | An AI-powered knowledge management system (Gemini Hackathon Submission) with voice input and persistent memory. |
-| **[ZenType](https://github.com/itslokeshx/ZenType)** | `React` `Vite` | A specialized typing tutor for the Tamil **Marutham** layout and English, built to help students ace government exams. |
-| **[MemeHub](https://github.com/itslokeshx/MemeHub)** | `MERN Stack` | A community-driven social platform for sharing, discovering, and interacting with memes. |
-| **[SaveMyTab](https://github.com/itslokeshx/SaveMyTab)** | `Chrome Ext` | A productivity extension to save, organize, and restore active tabs instantly. |
-| **[Automated WA Bot](https://github.com/itslokeshx/Automated-whatsapp-message)** | `Node.js` | A backend automation tool for scheduling WhatsApp messages for business loyalty programs. |
+| 🚀 Project                                                                       | 🛠️ Stack       | 📝 Description                                                                                                         |
+| :------------------------------------------------------------------------------- | :------------- | :--------------------------------------------------------------------------------------------------------------------- |
+| **[CorteXia](https://github.com/itslokeshx/cortexia)**                           | `MERN Stack`   | An AI-powered knowledge management system (Gemini Hackathon Submission) with voice input and persistent memory.        |
+| **[ZenType](https://github.com/itslokeshx/ZenType)**                             | `React` `Vite` | A specialized typing tutor for the Tamil **Marutham** layout and English, built to help students ace government exams. |
+| **[MemeHub](https://github.com/itslokeshx/MemeHub)**                             | `MERN Stack`   | A community-driven social platform for sharing, discovering, and interacting with memes.                               |
+| **[SaveMyTab](https://github.com/itslokeshx/SaveMyTab)**                         | `Chrome Ext`   | A productivity extension to save, organize, and restore active tabs instantly.                                         |
+| **[Automated WA Bot](https://github.com/itslokeshx/Automated-whatsapp-message)** | `Node.js`      | A backend automation tool for scheduling WhatsApp messages for business loyalty programs.                              |
 
 </div>
 
