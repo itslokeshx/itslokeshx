@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Lokesh&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
-
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
 
 <a href="https://git.io/typing-svg">
@@ -104,10 +102,6 @@ const lokesh = {
 <div align="center">
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=itslokeshx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslokeshx&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="175" />
 
 <br/><br/>
 
