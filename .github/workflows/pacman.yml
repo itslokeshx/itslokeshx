@@ -1,0 +1,32 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # Runs daily at 6 PM UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate Pacman contribution graph
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-pacman.svg?mode=pacman
+            dist/github-contribution-grid-pacman-dark.svg?mode=pacman&palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

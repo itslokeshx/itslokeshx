@@ -81,7 +81,17 @@ _Focused on building real-world systems with clean architecture, scalable backen
 
 <div align="center">
 
-### 🏆 Featured Projects
+### � GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=itslokeshx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### �🏆 Featured Projects
 
 | 🚀 Project                                                                       | 🛠️ Stack       | 📝 Description                                                                                                         |
 | :------------------------------------------------------------------------------- | :------------- | :--------------------------------------------------------------------------------------------------------------------- |
@@ -98,6 +108,12 @@ _Focused on building real-world systems with clean architecture, scalable backen
 <div align="center">
 
 ### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itslokeshx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslokeshx&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="170" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true" />
@@ -123,7 +139,21 @@ _Focused on building real-world systems with clean architecture, scalable backen
 
 <div align="center">
 
-### 💬 Dev Quote of the Day
+### � Pacman Eating My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itslokeshx/itslokeshx/output/github-contribution-grid-pacman-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itslokeshx/itslokeshx/output/github-contribution-grid-pacman.svg" />
+  <img src="https://raw.githubusercontent.com/itslokeshx/itslokeshx/output/github-contribution-grid-pacman-dark.svg" width="95%" alt="pacman contribution graph" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### �💬 Dev Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 
