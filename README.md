@@ -23,6 +23,10 @@
   </a>
 </p>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=itslokeshx&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
@@ -46,21 +50,27 @@ _Focused on building real-world systems with clean architecture, scalable backen
 
 <table>
   <tr>
-    <td align="center" width="100%">
-      <h4>🎨 Frontend & Design</h4>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,tailwind,figma&perline=7" />
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/🎨 Frontend & Design-1a1a2e?style=for-the-badge" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript&perline=4" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&perline=4" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/⚙️ Backend & Database-1a1a2e?style=for-the-badge" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=python,php&perline=4" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="100%">
-      <h4>⚙️ Backend & Database</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,php&perline=6" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="100%">
-      <h4>🔧 DevTools & Platforms</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,electron,vite&perline=6" />
+    <td align="center" valign="top" colspan="2">
+      <br/>
+      <img src="https://img.shields.io/badge/🔧 DevTools & Platforms-1a1a2e?style=for-the-badge" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,vite,electron,linux&perline=8" />
     </td>
   </tr>
 </table>
