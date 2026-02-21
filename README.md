@@ -103,6 +103,34 @@ _Focused on building real-world systems with clean architecture, scalable backen
   <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true" />
 </p>
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itslokeshx&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itslokeshx/itslokeshx/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itslokeshx/itslokeshx/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/itslokeshx/itslokeshx/output/github-contribution-grid-snake.svg" width="95%" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+
 </div>
 
 <br>
