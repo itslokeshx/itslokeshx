@@ -3,7 +3,7 @@
 # <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> Hey, I'm Lokesh
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Products;Solving+Real-time+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+AI-Powered+Web+Products;Shipping+Code+That+Matters" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,10 +35,146 @@
 
 ### 👨‍💻 About Me
 
-_Full-stack developer specializing in the **MERN stack** and **AI-integrated applications**._
-_Focused on building real-world systems with clean architecture, scalable backend logic, and intuitive UI._
+</div>
+
+<p align="center">
+<em>I build full-stack products that solve real problems — from AI-powered knowledge systems to developer analytics platforms.</em>
+</p>
+
+<div align="center">
+
+```
+�  Currently building    →  DevIntel — AI-powered GitHub intelligence platform
+🧠  Deep diving into      →  System Design, AI/ML integrations, React Native
+💬  Ask me about          →  MERN Stack, AI APIs, Chrome Extensions, Offline-First Architecture
+🎯  2026 Goal             →  Ship 3 production-grade products & contribute to OSS
+⚡  Fun fact              →  I reverse-engineered a productivity app to build my own open-source version
+```
 
 </div>
+
+---
+
+<div align="center">
+
+### 🏆 Featured Projects
+
+<br/>
+
+> _Every project here solves a real problem I personally experienced._
+
+</div>
+
+<br/>
+
+<!-- Row 1: AI Powerhouses -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 CorteXia</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/cortexia">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://cortexia-two.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=fff" />
+        <img src="https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square" />
+      </p>
+      <p align="center"><em>An AI-powered second brain & knowledge management system with voice input, persistent memory, and intelligent task automation — built for the Gemini API Developer Competition.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧬 DevIntel</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/DevIntel">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://dev-intel.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Llama_AI-0467DF?style=flat-square&logo=meta&logoColor=fff" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
+      </p>
+      <p align="center"><em>An AI-powered intelligence platform that decodes your GitHub DNA — transforming activity into insights, developer archetypes, and head-to-head battle comparisons.</em></p>
+    </td>
+  </tr>
+  <!-- Row 2: Productivity -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Second Brain</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/Second-Brain">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://second-brain-hub.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff" />
+        <img src="https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
+      </p>
+      <p align="center"><em>An offline-first productivity vault with corruption-safe persistence, Pomodoro engine, and free cloud sync — born from losing years of focus data to paid apps.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⌨️ ZenType</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/ZenType">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" />
+      </p>
+      <p align="center"><em>A specialized typing tutor for Tamil <strong>Marutham</strong> layout and English, purpose-built to help students master keyboard proficiency for government exams.</em></p>
+    </td>
+  </tr>
+  <!-- Row 3: Community & Automation -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎭 MemeHub</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/MemeHub">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
+      </p>
+      <p align="center"><em>A community-driven social platform for sharing, discovering, and interacting with memes — complete with feeds, reactions, and user profiles.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Automated WhatsApp Bot</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/Automated-whatsapp-message">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
+        <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=fff" />
+      </p>
+      <p align="center"><em>A backend automation tool for scheduling WhatsApp messages, designed for business loyalty programs and customer engagement workflows.</em></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
@@ -81,109 +217,16 @@ _Focused on building real-world systems with clean architecture, scalable backen
 
 <div align="center">
 
-### 🏆 Featured Projects
-
-</div>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 CorteXia</h3>
-      <p align="center">
-        <a href="https://github.com/itslokeshx/cortexia">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://cortexia-two.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=fff" />
-        <img src="https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square" />
-      </p>
-      <p align="center"><em>An AI-powered second brain & knowledge management system with voice input, persistent memory, and intelligent task automation — built for the Gemini API Developer Competition.</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧬 DevIntel</h3>
-      <p align="center">
-        <a href="https://github.com/itslokeshx/DevIntel">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://dev-intel.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Llama_AI-0467DF?style=flat-square&logo=meta&logoColor=fff" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
-      </p>
-      <p align="center"><em>An AI-powered intelligence platform that decodes your GitHub DNA — transforming activity into insights, developer archetypes, and head-to-head battle comparisons.</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⌨️ ZenType</h3>
-      <p align="center">
-        <a href="https://github.com/itslokeshx/ZenType">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" />
-      </p>
-      <p align="center"><em>A specialized typing tutor for Tamil <strong>Marutham</strong> layout and English, purpose-built to help students master keyboard proficiency for government exams.</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">😂 MemeHub</h3>
-      <p align="center">
-        <a href="https://github.com/itslokeshx/MemeHub">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
-      </p>
-      <p align="center"><em>A community-driven social platform for sharing, discovering, and interacting with memes — complete with feeds, reactions, and user profiles.</em></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top" colspan="2">
-      <h3 align="center">🤖 Automated WhatsApp Bot</h3>
-      <p align="center">
-        <a href="https://github.com/itslokeshx/Automated-whatsapp-message">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
-        <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=fff" />
-      </p>
-      <p align="center"><em>A backend automation tool for scheduling WhatsApp messages, designed for business loyalty programs and customer engagement workflows.</em></p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-<div align="center">
-
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true" />
+<br/>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=itslokeshx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="48%" />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslokeshx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" width="40%" />
 
 </div>
 
@@ -215,14 +258,23 @@ _Focused on building real-world systems with clean architecture, scalable backen
 
 <div align="center">
 
-### 💬 Dev Quote of the Day
+### 🤝 Let's Connect
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+<br/>
+
+_If you like what I build, consider giving a ⭐ to my repos — it means more than you think._
+_I'm always open to collaborating on meaningful projects._
+
+<br/>
+
+<a href="mailto:itslokeshx@gmail.com">
+  <img src="https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+</a>
 
 </div>
 
 <br>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
 
 </div>
