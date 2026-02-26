@@ -35,41 +35,12 @@
 
 ### 👨‍💻 About Me
 
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=36BCF7&background=0D1117&center=true&vCenter=true&width=800&height=300&lines=%3E+lokesh.config.js;%3E+const+Lokesh+%3D+%7B+;%3E+++++role%3A+%22Full-Stack+Developer%22%2C;%3E+++++location%3A+%22India+🇮🇳%22%2C;%3E+++++building%3A+%22DevIntel+-+AI+GitHub+Analytics%22%2C;%3E+++++deepDiving%3A+%5B%22System+Design%22%2C+%22AI%2FML%22%5D%2C;%3E+++++stack%3A+%5B%22MERN%22%2C+%22Next.js%22%2C+%22TypeScript%22%5D%2C;%3E+++++goal_2026%3A+%22Ship+3+products+%26+OSS%22;%3E+%7D;%3E+;%3E+_" />
+
 </div>
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-
-```js
-// lokesh.config.js
-
-const Lokesh = {
-    pronouns: "he" | "him",
-    location: "India 🇮🇳",
-    role: "Full-Stack Developer",
-
-    currentlyBuilding: "DevIntel — AI-powered GitHub intelligence platform",
-    deepDiving: ["System Design", "AI/ML Integrations", "React Native"],
-
-    stack: {
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-        backend:  ["Node.js", "Express", "MongoDB", "MySQL"],
-        ai:       ["Gemini API", "Llama 3.3 (via Groq)", "Prompt Engineering"],
-        devtools: ["Git", "VS Code", "Postman", "Vercel", "Linux"],
-    },
-
-    askMeAbout: ["MERN Stack", "AI APIs", "Chrome Extensions", "Offline-First Architecture"],
-
-    funFact: "I reverse-engineered a productivity app to build my own open-source version 🛡️",
-    goal_2026: "Ship 3 production-grade products & contribute to OSS 🚀",
-};
-```
-
-    </td>
-  </tr>
-</table>
 </div>
 ---
 
