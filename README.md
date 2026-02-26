@@ -37,39 +37,9 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itslokeshx/itslokeshx/main/assets/mac-window-controls.svg" width="600" style="margin-bottom: -10px;" />
-</div>
-<div align="center">
-<table>
-  <tr>
-    <td width="600">
-    
-```json
-{
-  "name": "Lokesh",
-  "role": "Full-Stack Developer",
-  "location": "India 🇮🇳",
-  "currently_building": "DevIntel — AI GitHub Analytics",
-  "deep_diving_into": [
-    "System Design",
-    "AI/ML Integrations",
-    "React Native"
-  ],
-  "stack": {
-    "frontend": ["React", "Next.js", "TypeScript", "Tailwind"],
-    "backend": ["Node.js", "Express", "MongoDB", "MySQL"],
-    "ai": ["Gemini API", "Llama 3.3", "Prompt Engineering"]
-  },
-  "2026_goal": "Ship 3 products & contribute to OSS 🚀",
-  "fun_fact": "Re-engineered a productivity app into an open-source version"
-}
-```
-
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <em>I am a Full-Stack Developer passionate about building products that solve real problems. My expertise lies in the <strong>MERN stack</strong> and integrating powerful <strong>AI models</strong> like Llama and Gemini into seamless, offline-first architectures. I love system design, reverse-engineering complex apps into open-source alternatives, and building tools that empower developers.</em>
+</p>
 
 </div>
 ---
