@@ -83,15 +83,97 @@ _Focused on building real-world systems with clean architecture, scalable backen
 
 ### 🏆 Featured Projects
 
-| 🚀 Project                                                                       | 🛠️ Stack       | 📝 Description                                                                                                         |
-| :------------------------------------------------------------------------------- | :------------- | :--------------------------------------------------------------------------------------------------------------------- |
-| **[CorteXia](https://github.com/itslokeshx/cortexia)**                           | `MERN Stack`   | An AI-powered knowledge management system (Gemini Hackathon Submission) with voice input and persistent memory.        |
-| **[ZenType](https://github.com/itslokeshx/ZenType)**                             | `React` `Vite` | A specialized typing tutor for the Tamil **Marutham** layout and English, built to help students ace government exams. |
-| **[MemeHub](https://github.com/itslokeshx/MemeHub)**                             | `MERN Stack`   | A community-driven social platform for sharing, discovering, and interacting with memes.                               |
-| **[SaveMyTab](https://github.com/itslokeshx/SaveMyTab)**                         | `Chrome Ext`   | A productivity extension to save, organize, and restore active tabs instantly.                                         |
-| **[Automated WA Bot](https://github.com/itslokeshx/Automated-whatsapp-message)** | `Node.js`      | A backend automation tool for scheduling WhatsApp messages for business loyalty programs.                              |
-
 </div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 CorteXia</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/cortexia">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://cortexia-two.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=fff" />
+        <img src="https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square" />
+      </p>
+      <p align="center"><em>An AI-powered second brain & knowledge management system with voice input, persistent memory, and intelligent task automation — built for the Gemini API Developer Competition.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧬 DevIntel</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/DevIntel">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://dev-intel.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Llama_AI-0467DF?style=flat-square&logo=meta&logoColor=fff" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
+      </p>
+      <p align="center"><em>An AI-powered intelligence platform that decodes your GitHub DNA — transforming activity into insights, developer archetypes, and head-to-head battle comparisons.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⌨️ ZenType</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/ZenType">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" />
+      </p>
+      <p align="center"><em>A specialized typing tutor for Tamil <strong>Marutham</strong> layout and English, purpose-built to help students master keyboard proficiency for government exams.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">😂 MemeHub</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/MemeHub">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
+      </p>
+      <p align="center"><em>A community-driven social platform for sharing, discovering, and interacting with memes — complete with feeds, reactions, and user profiles.</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2">
+      <h3 align="center">🤖 Automated WhatsApp Bot</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/Automated-whatsapp-message">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
+        <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=fff" />
+      </p>
+      <p align="center"><em>A backend automation tool for scheduling WhatsApp messages, designed for business loyalty programs and customer engagement workflows.</em></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
@@ -111,7 +193,7 @@ _Focused on building real-world systems with clean architecture, scalable backen
 
 ### 🏙️ 3D Contribution Calendar
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
+<img src="./profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D Contribution Graph" />
 
 </div>
 
