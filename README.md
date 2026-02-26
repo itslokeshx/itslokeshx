@@ -219,14 +219,9 @@
 
 ### 📊 GitHub Analytics
 
-<br/>
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itslokeshx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslokeshx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" width="40%" />
 
 </div>
 
