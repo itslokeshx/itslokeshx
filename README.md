@@ -37,22 +37,40 @@
 
 </div>
 
-<p align="center">
-<em>I build full-stack products that solve real problems — from AI-powered knowledge systems to developer analytics platforms.</em>
-</p>
-
 <div align="center">
+<table>
+  <tr>
+    <td>
 
-```
-�  Currently building    →  DevIntel — AI-powered GitHub intelligence platform
-🧠  Deep diving into      →  System Design, AI/ML integrations, React Native
-💬  Ask me about          →  MERN Stack, AI APIs, Chrome Extensions, Offline-First Architecture
-🎯  2026 Goal             →  Ship 3 production-grade products & contribute to OSS
-⚡  Fun fact              →  I reverse-engineered a productivity app to build my own open-source version
+```js
+// lokesh.config.js
+
+const Lokesh = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    role: "Full-Stack Developer",
+
+    currentlyBuilding: "DevIntel — AI-powered GitHub intelligence platform",
+    deepDiving: ["System Design", "AI/ML Integrations", "React Native"],
+
+    stack: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        backend:  ["Node.js", "Express", "MongoDB", "MySQL"],
+        ai:       ["Gemini API", "Llama 3.3 (via Groq)", "Prompt Engineering"],
+        devtools: ["Git", "VS Code", "Postman", "Vercel", "Linux"],
+    },
+
+    askMeAbout: ["MERN Stack", "AI APIs", "Chrome Extensions", "Offline-First Architecture"],
+
+    funFact: "I reverse-engineered a productivity app to build my own open-source version 🛡️",
+    goal_2026: "Ship 3 production-grade products & contribute to OSS 🚀",
+};
 ```
 
+    </td>
+  </tr>
+</table>
 </div>
-
 ---
 
 <div align="center">
