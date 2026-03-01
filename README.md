@@ -240,23 +240,47 @@
 
 <div align="center">
 
-### 🤝 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b4b&height=1&section=header" width="100%" />
 
 <br/>
 
-_If you like what I build, consider giving a ⭐ to my repos — it means more than you think._
-_I'm always open to collaborating on meaningful projects._
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%F0%9F%A4%9D+Let's+Connect+%26+Build" alt="Let's Connect" />
 
 <br/>
 
-<a href="mailto:itslokeshx@gmail.com">
-  <img src="https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-</a>
+<p>
+  <a href="https://itslokeshx.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=white" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/itslokeshx/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/itslokeshx">
+    <img src="https://img.shields.io/badge/𝕏_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" height="35" />
+  </a>
+  &nbsp;
+  <a href="https://dev.to/itslokeshx">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="35" />
+  </a>
+  &nbsp;
+  <a href="mailto:itslokeshx@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+</p>
+
+<br/>
+
+> **💡** _I'm always open to collaborating on products that make a real difference._
+> _If you like what I build, drop a ⭐ on my repos — it fuels the next commit._
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&pause=1000&color=555555&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Happy+shipping+🚀" alt="Footer Typing SVG" />
+
+<br/>
 
 </div>
 
----
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
-</div>
