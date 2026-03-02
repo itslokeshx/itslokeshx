@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+AI-Powered+Web+Products;Shipping+Code+That+Matters" alt="Typing SVG" />
 </a>
 
-
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=itslokeshx&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 
