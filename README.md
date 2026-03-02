@@ -6,24 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+AI-Powered+Web+Products;Shipping+Code+That+Matters" alt="Typing SVG" />
 </a>
 
-<br/>
 
-<p align="center">
-  <a href="https://itslokeshx.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/itslokeshx/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  <a href="https://x.com/itslokeshx">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="30" />
-  </a>
-  <a href="https://dev.to/itslokeshx">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="30" />
-  </a>
-</p>
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=itslokeshx&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
 
