@@ -139,7 +139,7 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
         <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=fff" />
       </p>
-      <p align="center"><em>A backend automation tool for scheduling WhatsApp messages, designed for business loyalty programs and customer engagement workflows.</em></p>
+      <p align="center"><em>A backend automation tool for scheduling WhatsApp messages, designed for business loyalty programs and customer engagement workflow.</em></p>
     </td>
   </tr>
 </table>
