@@ -39,6 +39,24 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🎵 SoulSync</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/SoulSync">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://soul-sync-beta.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Groq_AI-0467DF?style=flat-square" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
+      </p>
+      <p align="center"><em>Free, open-source music streaming with AI playlists, real-time listening sessions, intelligent search, and native Android. No ads. No subscription. Ever.</em></p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🧠 CorteXia</h3>
       <p align="center">
         <a href="https://github.com/itslokeshx/cortexia">
@@ -56,6 +74,9 @@
       </p>
       <p align="center"><em>An AI-powered second brain & knowledge management system with voice input, persistent memory, and intelligent task automation — built for the Gemini API Developer Competition.</em></p>
     </td>
+  </tr>
+  <!-- Row 2: AI & Developer Tools -->
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧬 DevIntel</h3>
       <p align="center">
@@ -73,27 +94,6 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
       </p>
       <p align="center"><em>An AI-powered intelligence platform that decodes your GitHub DNA — transforming activity into insights, developer archetypes, and head-to-head battle comparisons.</em></p>
-    </td>
-  </tr>
-  <!-- Row 2: Productivity -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ Second Brain</h3>
-      <p align="center">
-        <a href="https://github.com/itslokeshx/Second-Brain">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://second-brain-hub.vercel.app/">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff" />
-        <img src="https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
-      </p>
-      <p align="center"><em>An offline-first productivity vault with corruption-safe persistence, Pomodoro engine, and free cloud sync — born from losing years of focus data to paid apps.</em></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⌨️ ZenType</h3>
