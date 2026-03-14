@@ -1,24 +1,10 @@
-<!-- ============================================================
-     LOKESH — GITHUB PROFILE README
-     Builder Edition · Crafted for impact
-     ============================================================ -->
-
 <div align="center">
 
-```
-██╗      ██████╗ ██╗  ██╗███████╗███████╗██╗  ██╗
-██║     ██╔═══██╗██║ ██╔╝██╔════╝██╔════╝██║  ██║
-██║     ██║   ██║█████╔╝ █████╗  ███████╗███████║
-██║     ██║   ██║██╔═██╗ ██╔══╝  ╚════██║██╔══██║
-███████╗╚██████╔╝██║  ██╗███████╗███████║██║  ██║
-╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
+# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" /> Hey, I'm Lokesh
 
-### I don't just write code. I build products.
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+MERN+%2B+Next.js;AI-Powered+Product+Builder;Shipping+open-source+that+replaces+paid+tools;From+idea+→+deployed+in+days%2C+not+months)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+MERN+Stack;Building+AI-Powered+Web+Products;Shipping+Code+That+Matters" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -26,252 +12,202 @@
 
 </div>
 
----
+<div align="center">
 
-## `> whoami`
-
-```yaml
-name: Lokesh Kumar
-role: Full Stack Developer & Product Builder
-location: Tamil Nadu, India
-stack: MERN · Next.js · TypeScript · AI/LLM Integration
-philosophy: Every project should replace something you're paying for
-superpower: Turning "I wish this existed" into production apps
-currently: Building AI-first products and shipping open-source tools
-```
-
-> _I build products the way a craftsman builds furniture — every detail matters, every decision has a reason._
-> _My repos aren't experiments. They're things people actually use._
-
----
-
-## `> ls ./projects` — What I've Shipped
+### 👨‍💻 About Me
 
 <br/>
 
-### 🎵 SoulSync — _The Spotify Killer You Didn't Know You Needed_
-
-<p align="left">
-  <a href="https://github.com/itslokeshx/SoulSync">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://soul-sync-beta.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_App-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Android_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<p align="center">
+  <em>I am a Full-Stack Developer passionate about building products that solve real problems. My expertise lies in the <strong>MERN stack</strong> and integrating powerful <strong>AI models</strong> like Llama and Gemini into seamless, offline-first architectures. I love system design, reverse-engineering complex apps into open-source alternatives, and building tools that empower developers.</em>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=fff" />
-  <img src="https://img.shields.io/badge/LLaMA_3.3_70B-0467DF?style=flat-square&logo=meta&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=fff" />
-</p>
-
-> Everything Spotify Premium charges ₹119/month for. **Free. Forever. Open-source.**
-
-**What makes it different:**
-
-- 🔍 **7-factor intelligent search engine** — originals always rank first, covers get buried
-- 🤖 **AI playlist builder** (Groq LLaMA 3.3 70B) — describe a vibe, get 15 perfectly matched songs
-- 🎧 **SoulLink** — real-time synchronized duo listening with in-session chat via Socket.io
-- 📱 **Native Android APK** — same codebase, lock-screen controls, background audio, haptics
-- ✈️ **True offline mode** — APK opens without login, music keeps playing
-- 🔗 **Universal playlist import** — paste a Spotify/YouTube/Apple Music link, done
-- ⚡ **96% faster search** with Redis caching — repeat queries return in under 50ms
-
-```
-Performance: Search latency 1.2s → 45ms │ Dashboard load 2.1s → 95ms │ Cache hit rate 78%
-```
-
-<br/>
-
----
-
-### 🧠 CorteXia — _Your AI Second Brain_
-
-<p align="left">
-  <a href="https://github.com/itslokeshx/cortexia">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://cortexia-two.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=fff" />
-  <img src="https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square" />
-</p>
-
-> AI-powered knowledge management with voice input, persistent memory, and intelligent task automation. Built for the **Gemini API Developer Competition**.
-
-<br/>
-
----
-
-### 🧬 DevIntel — _Your GitHub DNA, Decoded_
-
-<p align="left">
-  <a href="https://github.com/itslokeshx/DevIntel">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://dev-intel.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Llama_AI-0467DF?style=flat-square&logo=meta&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
-</p>
-
-> Transforms your GitHub activity into developer archetypes, insights, and head-to-head battle comparisons. Because your commits tell a story.
-
-<br/>
-
----
-
-### 🛡️ Second Brain — _Offline-First Productivity Vault_
-
-<p align="left">
-  <a href="https://github.com/itslokeshx/Second-Brain">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://second-brain-hub.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff" />
-  <img src="https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
-</p>
-
-> Born from losing years of focus data to paid apps. Corruption-safe persistence, Pomodoro engine, free cloud sync — because your productivity data shouldn't be held hostage.
-
-<br/>
-
----
-
-### ⌨️ ZenType — _Master the Tamil Marutham Keyboard_
-
-<p align="left">
-  <a href="https://github.com/itslokeshx/ZenType">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" />
-</p>
-
-> Purpose-built typing tutor for Tamil **Marutham** layout + English, designed to help students crack government exams. Local problem. Local solution.
-
-<br/>
-
----
-
-### 🎭 MemeHub & 🤖 WhatsApp Bot
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**MemeHub** — Community-driven meme platform with feeds, reactions, and profiles. Full MERN stack.
-
-<a href="https://github.com/itslokeshx/MemeHub"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**WhatsApp Bot** — Backend automation for scheduling messages. Built for business loyalty programs.
-
-<a href="https://github.com/itslokeshx/Automated-whatsapp-message"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## `> cat tech_stack.json`
-
-```json
-{
-  "frontend": [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS",
-    "Framer Motion",
-    "Vite"
-  ],
-  "backend": ["Node.js", "Express", "Socket.io", "REST APIs", "WebSockets"],
-  "database": ["MongoDB", "MySQL", "Redis (Upstash)", "IndexedDB"],
-  "ai_ml": [
-    "LLaMA 3.3 70B (Groq)",
-    "Gemini AI",
-    "Prompt Engineering",
-    "NLP Pipelines"
-  ],
-  "mobile": ["Capacitor", "Android APK", "PWA"],
-  "auth": ["Google OAuth 2.0", "JWT RS256", "httpOnly Cookies"],
-  "devtools": ["Git", "GitHub Actions", "Postman", "VS Code", "Figma", "Linux"],
-  "infra": ["Vercel", "Render", "MongoDB Atlas"],
-  "other": ["Python", "PHP", "Electron"]
-}
-```
-
----
-
-## `> git log --oneline` — How I Build
-
-```
-[philosophy]  Every project solves a real problem I personally faced
-[approach]    System design first → prototype → ship → iterate in public
-[obsession]   Performance metrics — if it's slow, it's broken
-[values]      Open-source > paywalls. Always.
-[pattern]     Reverse-engineer complex paid products into free alternatives
-[secret]      The best products feel inevitable once you use them
-```
-
----
-
-## `> cat stats.md`
+</div>
 
 <div align="center">
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
-</p>
+### 🏆 Featured Projects
+
+<br/>
+
+> _Every project here solves a real problem I personally experienced._
+
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 CorteXia</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/cortexia">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://cortexia-two.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=fff" />
+        <img src="https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square" />
+      </p>
+      <p align="center"><em>An AI-powered second brain & knowledge management system with voice input, persistent memory, and intelligent task automation — built for the Gemini API Developer Competition.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🧬 DevIntel</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/DevIntel">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://dev-intel.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Llama_AI-0467DF?style=flat-square&logo=meta&logoColor=fff" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
+      </p>
+      <p align="center"><em>An AI-powered intelligence platform that decodes your GitHub DNA — transforming activity into insights, developer archetypes, and head-to-head battle comparisons.</em></p>
+    </td>
+  </tr>
+  <!-- Row 2: Productivity -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛡️ Second Brain</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/Second-Brain">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://second-brain-hub.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=fff" />
+        <img src="https://img.shields.io/badge/IndexedDB-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
+      </p>
+      <p align="center"><em>An offline-first productivity vault with corruption-safe persistence, Pomodoro engine, and free cloud sync — born from losing years of focus data to paid apps.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⌨️ ZenType</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/ZenType">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" />
+      </p>
+      <p align="center"><em>A specialized typing tutor for Tamil <strong>Marutham</strong> layout and English, purpose-built to help students master keyboard proficiency for government exams.</em></p>
+    </td>
+  </tr>
+  <!-- Row 3: Community & Automation -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎭 MemeHub</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/MemeHub">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=fff" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
+      </p>
+      <p align="center"><em>A community-driven social platform for sharing, discovering, and interacting with memes — complete with feeds, reactions, and user profiles.</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Automated WhatsApp Bot</h3>
+      <p align="center">
+        <a href="https://github.com/itslokeshx/Automated-whatsapp-message">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
+        <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=fff" />
+      </p>
+      <p align="center"><em>A backend automation tool for scheduling WhatsApp messages, designed for business loyalty programs and customer engagement workflow.</em></p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack & Tools
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/🎨 Frontend & Design-1a1a2e?style=for-the-badge" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript&perline=4" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&perline=4" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://img.shields.io/badge/⚙️ Backend & Database-1a1a2e?style=for-the-badge" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=python,php&perline=4" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="2">
+      <br/>
+      <img src="https://img.shields.io/badge/🔧 DevTools & Platforms-1a1a2e?style=for-the-badge" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,vite,electron,linux&perline=8" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Analytics
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itslokeshx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslokeshx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 </p>
 
 </div>
 
 ---
 
-## `> cat contribution_graph.svg`
+<div align="center">
+
+### 🏙️ 3D Contribution Calendar
+
+<img src="./profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D Contribution Graph" />
+
+</div>
+
+---
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D Contribution Graph" />
+### 🟡 Pacman Eating My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itslokeshx/itslokeshx/output/github-contribution-grid-pacman-dark.svg" />
@@ -283,9 +219,13 @@ Performance: Search latency 1.2s → 45ms │ Dashboard load 2.1s → 95ms │ C
 
 ---
 
-## `> connect --all`
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b4b&height=1&section=header" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=%F0%9F%A4%9D+Let's+Connect+%26+Build" alt="Let's Connect" />
 
 <br/>
 
@@ -313,14 +253,14 @@ Performance: Search latency 1.2s → 45ms │ Dashboard load 2.1s → 95ms │ C
 
 <br/>
 
-```
-I'm always open to collaborating on products that make a real difference.
-If you like what I build — drop a ⭐ on my repos. It fuels the next commit.
-```
+> **💡** _I'm always open to collaborating on products that make a real difference._
+> _If you like what I build, drop a ⭐ on my repos — it fuels the next commit._
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=14&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=Thanks+for+visiting.+Now+go+build+something.+🚀)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=14&pause=1000&color=555555&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+Happy+shipping+🚀" alt="Footer Typing SVG" />
+
+<br/>
 
 </div>
 
