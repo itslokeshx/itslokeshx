@@ -101,6 +101,9 @@
         <a href="https://github.com/itslokeshx/ZenType">
           <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
+        <a href="https://zen-type-flax.vercel.app/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
@@ -116,6 +119,9 @@
       <p align="center">
         <a href="https://github.com/itslokeshx/MemeHub">
           <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://memehub-m4gy.onrender.com/">
+          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=render&logoColor=white" />
         </a>
       </p>
       <p align="center">
