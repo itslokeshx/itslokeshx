@@ -177,29 +177,20 @@
 
 <table>
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <strong>Frontend</strong>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vite&perline=5" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <strong>Backend & Database</strong>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
     </td>
-    <td align="center" valign="top" width="25%">
-      <strong>AI & Runtime</strong>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=electron&perline=4" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Groq-0467DF?style=flat-square&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=fff" />
-    </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <strong>Tools & Platforms</strong>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux&perline=5" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux,postman&perline=6" />
     </td>
   </tr>
 </table>
