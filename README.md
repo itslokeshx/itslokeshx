@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=header&text=Lokesh&fontSize=60&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Lokesh&fontSize=60&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+MERN+Stack;Building+AI-Powered+Products+That+Ship;Turning+Real+Problems+Into+Real+Solutions;Open+Source+%7C+Real+Users+%7C+Real+Impact" alt="Typing SVG" />
