@@ -192,10 +192,6 @@
   </tr>
 </table>
 
-<br/>
-
-**Currently Learning:** `C++ · DSA · System Design · LeetCode`
-
 </div>
 
 ---
