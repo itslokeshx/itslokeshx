@@ -24,7 +24,7 @@
   <em>
     Full-Stack Developer with a MERN stack focus, building AI-integrated products that solve problems I actually face. I've shipped a music streaming platform with 100+ users, a desktop video splitter, a native Android app, and a local AI chat client — all while studying full-stack development.
     <br/><br/>
-    I believe in <strong>shipping fast, learning deep, and building in public.</strong> Currently grinding DSA in C++ and leveling up system design. Every repo here either taught me something real or solved a real problem.
+    I believe in <strong>shipping fast, learning deep, and building in public.</strong>Every repo here either taught me something real or solved a real problem.
   </em>
 </p>
 
@@ -209,22 +209,9 @@
   <img src="https://streak-stats.demolab.com?user=itslokeshx&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=itslokeshx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslokeshx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7" height="165" />
-</p>
-
 </div>
 
 ---
-
-<div align="center">
-
-### 🏙️ 3D Contribution Calendar
-
-<img src="./profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D Contribution Graph" />
-
-</div>
 
 ---
 
