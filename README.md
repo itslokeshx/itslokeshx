@@ -169,6 +169,8 @@
 
 ---
 
+---
+
 <div align="center">
 
 ### 🛠️ Tech Stack
@@ -177,25 +179,32 @@
 
 <table>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <strong>Frontend</strong>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite&perline=4" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,vite&perline=4" />
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <strong>Backend & Database</strong>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=4" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis&perline=4" />
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
+      <strong>AI & Integrations</strong>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,ollama&perline=4" />
+    </td>
+    <td align="center" valign="top" width="25%">
       <strong>Tools & Platforms</strong>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,electron,linux&perline=4" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,electron,linux,postman,cpp&perline=4" />
     </td>
   </tr>
 </table>
 
 </div>
+
+---
 
 ---
 
