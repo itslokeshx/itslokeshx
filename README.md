@@ -60,7 +60,6 @@
         <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff" />
         <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=fff" />
         <img src="https://img.shields.io/badge/Groq_AI-0467DF?style=flat-square" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
       </p>
