@@ -22,7 +22,7 @@
 
 <p align="center" style="max-width: 700px;">
   <em>
-    Full-Stack Developer with a MERN stack focus, building AI-integrated products that solve problems I actually face. I've shipped a music streaming platform with 100+ users, a desktop video splitter, a native Android app, and a local AI chat client — all while studying full-stack development.
+    Full-Stack Developer with a MERN stack focus, building AI-integrated products that solve problems I actually face. I've shipped a music streaming platform with 120 users, a desktop video splitter, a native Android app, and a local AI chat client — all while studying full-stack development.
     <br/><br/>
     I believe in <strong>shipping fast, learning deep, and building in public.</strong>Every repo here either taught me something real or solved a real problem.
   </em>
@@ -64,8 +64,8 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff" />
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/100%2B_Users-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/4000%2B_Songs_Streamed-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/120_Users-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/5k_Songs_Listened-blue?style=flat-square" />
         <img src="https://img.shields.io/badge/Web_%7C_Android_%7C_Desktop-orange?style=flat-square" />
       </p>
       <p align="center"><em>Free, open-source music platform with AI playlists, real-time shared listening (SoulLink), intelligent 7-factor search, Redis caching, Google OAuth, and a native Android APK. No ads. No subscription. Ever.</em></p>
