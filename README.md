@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=itslokeshx&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=itslokeshx&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -269,4 +269,3 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
