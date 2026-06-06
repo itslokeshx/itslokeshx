@@ -14,10 +14,6 @@ My approach is simple: build, learn, iterate, and share the journey along the wa
 
 ### 🏆 Featured Projects
 
-<br/>
-
-> _These projects exist because I needed them. No tutorials. No assignments. Just problems worth solving._
-
 </div>
 
 <br/>
