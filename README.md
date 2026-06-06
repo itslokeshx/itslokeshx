@@ -1,16 +1,8 @@
 <div align="center">
 
-<img src="./assets/coding.gif" width="600" alt="Coding GIF" />
+# Hi, I'm Loki 👋
 
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+MERN+Stack;Building+AI-Powered+Products+That+Ship;Turning+Real+Problems+Into+Real+Solutions;Open+Source+%7C+Real+Users+%7C+Real+Impact" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=itslokeshx&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" />
+<img src="./assets/coding.gif" width="100%" alt="Coding GIF" />
 
 </div>
 
