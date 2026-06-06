@@ -1,28 +1,12 @@
-<div align="center">
-
 # Hi, I'm Loki 👋
 
 <img src="./assets/coding.gif" width="100%" alt="Coding GIF" />
 
-</div>
-
----
-
-<div align="center">
-
-### 👨‍💻 About Me
-
 <br/>
 
-<p align="center" style="max-width: 700px;">
-  <em>
-    Full-Stack Developer with a MERN stack focus, building AI-integrated products that solve problems I actually face. I've shipped a music streaming platform with 120 users, a desktop video splitter, a native Android app, and a local AI chat client — all while studying full-stack development.
-    <br/><br/>
-    I believe in <strong>shipping fast, learning deep, and building in public.</strong>Every repo here either taught me something real or solved a real problem.
-  </em>
-</p>
+I'm a builder who enjoys turning ideas into real products. As a Full-Stack MERN Developer, I like creating clean, scalable applications, solving real problems, and shipping things people can actually use.
 
-</div>
+My approach is simple: build, learn, iterate, and share the journey along the way.
 
 ---
 
